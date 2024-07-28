@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @mujadidfauzan
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning web development
-- 📫 How to reach me ozoramujadid@gmail.com
+- 🌱 I’m currently learning AI and Robotics
+- 📫 How to reach me mujadidfauzan29@gmail.com
 
 <!---
 mujadidfauzan/mujadidfauzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
